@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "374390499261",
+    "firebase_url": "https://microproject-textrecog.firebaseio.com",
+    "project_id": "microproject-textrecog",
+    "storage_bucket": "microproject-textrecog.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:374390499261:android:9ee25136cc91d6272054d4",
+        "android_client_info": {
+          "package_name": "com.example.languagetranslatorproject"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "374390499261-2lcjaf29q1sc3m7drb0fbsne6c7pcq3a.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBJg-BkoSqwJauPTPAAfYazzrvvHIvE4Ng"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "374390499261-2lcjaf29q1sc3m7drb0fbsne6c7pcq3a.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
